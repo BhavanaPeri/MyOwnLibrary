@@ -1,2 +1,2 @@
-# MyOwnLibrary
-function bounceOff and isTouching
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
